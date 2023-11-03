@@ -1,4 +1,4 @@
-package com.mangoapps;
+package com.MangoApps;
 
 public class Car {
     private String registrationNumber;
